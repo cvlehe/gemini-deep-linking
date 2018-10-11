@@ -1,0 +1,8 @@
+[{
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "com.deeplinkingmarktwo",
+		"sha256_cert_fingerprints": ["10:7F:B1:79:D8:46:D8:E4:3B:F1:80:67:47:BA:63:FB:BC:5D:FB:CD:E7:6C:71:08:0B:FB:35:58:C8:DF:1E:87"]
+	}
+}]

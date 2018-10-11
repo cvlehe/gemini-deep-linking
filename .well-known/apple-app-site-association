@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "P4LZFPM2NH.com.gemini.ios",
+                "paths": [ "/mobile/*"]
+            }
+        ]
+    }
+}
