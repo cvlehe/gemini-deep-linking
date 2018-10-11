@@ -1,5 +1,8 @@
-{
+{ 
   "name": "gemini-deep-linking",
   "version": "1.0.0",
-  "main": "index.php"
+  "main": "index.php",
+  "scripts": {
+    "start": "node index.php"
+  }
 }
