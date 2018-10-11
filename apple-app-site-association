@@ -1,9 +1,13 @@
+{
   "applinks": {
     "apps": [],
     "details": [
-      { 
-        "appID": "P4LZFPM2NH.org.reactjs.native.example.deeplinkingmarktwo",
-        "paths": [ "/mobile/*" ]
+      {
+        "appID": P4LZFPM2NH.com.gemini.ios",
+        "paths": [
+          "/mobile/*"
+        ]
       }
     ]
   }
+}
